@@ -1,0 +1,20 @@
+.header{
+	background-color: #2E2D2C;
+	min-height: 50px;
+	padding: 10px 0;
+	color: #ffffff;
+}
+.h1{
+	padding: 30px 0;
+}
+.cb{
+	padding:  10px 30px;
+	color: black;
+	margin-right: 20px;
+}
+#draggable{
+	border: 1px solid;
+	width: 150px;
+ 	height: 150px;
+  	padding: 0.5em;
+}
